@@ -1,3 +1,5 @@
+#1-funtion base thread
+
 import threading
 def task1():
     for i in range(1,11):
